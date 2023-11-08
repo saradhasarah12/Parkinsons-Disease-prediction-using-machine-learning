@@ -1,1 +1,1 @@
-# Parkinsons-disease
+# Parkinsons disease prediction using Machine Learning
